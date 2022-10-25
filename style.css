@@ -1,0 +1,20 @@
+div {
+  display: block;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.first-text:first-letter {
+  color: red;
+  font-weight: bold;
+  font-size: 30pt;
+}
+
+.second-text:first-line {
+  color: blue;
+  font-weight: bold;
+  text-transform: uppercase;
+}
